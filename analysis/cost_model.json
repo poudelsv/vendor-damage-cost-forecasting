@@ -1,0 +1,92 @@
+{
+  "total_incidents": 142,
+  "total_damage_cost_usd": 73903.0,
+  "preventable_exposure_usd": 8944.98,
+  "exposure_by_process": [
+    {
+      "process": "Aircraft Cleaning",
+      "incidents": 15,
+      "avg_cost_usd": 182.13,
+      "total_cost_usd": 2732.0,
+      "monthly_frequency": 2.5,
+      "annualised_expected_exposure_usd": 5464.0
+    },
+    {
+      "process": "Baggage Handling",
+      "incidents": 43,
+      "avg_cost_usd": 411.81,
+      "total_cost_usd": 17708.0,
+      "monthly_frequency": 7.17,
+      "annualised_expected_exposure_usd": 35416.0
+    },
+    {
+      "process": "Catering",
+      "incidents": 14,
+      "avg_cost_usd": 276.29,
+      "total_cost_usd": 3868.0,
+      "monthly_frequency": 2.33,
+      "annualised_expected_exposure_usd": 7736.0
+    },
+    {
+      "process": "Fueling",
+      "incidents": 15,
+      "avg_cost_usd": 792.27,
+      "total_cost_usd": 11884.0,
+      "monthly_frequency": 2.5,
+      "annualised_expected_exposure_usd": 23768.0
+    },
+    {
+      "process": "Pushback & Towing",
+      "incidents": 12,
+      "avg_cost_usd": 884.17,
+      "total_cost_usd": 10610.0,
+      "monthly_frequency": 2.0,
+      "annualised_expected_exposure_usd": 21220.0
+    },
+    {
+      "process": "Ramp Loading",
+      "incidents": 43,
+      "avg_cost_usd": 630.26,
+      "total_cost_usd": 27101.0,
+      "monthly_frequency": 7.17,
+      "annualised_expected_exposure_usd": 54202.0
+    }
+  ],
+  "preventable_by_vendor_process": [
+    {
+      "vendor_id": "V-02",
+      "process": "Ramp Loading",
+      "incidents": 43,
+      "avg_cost_usd": 630.26,
+      "preventable_exposure_usd": 4884.48
+    },
+    {
+      "vendor_id": "V-01",
+      "process": "Baggage Handling",
+      "incidents": 43,
+      "avg_cost_usd": 411.81,
+      "preventable_exposure_usd": 3191.56
+    },
+    {
+      "vendor_id": "V-04",
+      "process": "Fueling",
+      "incidents": 15,
+      "avg_cost_usd": 792.27,
+      "preventable_exposure_usd": 594.2
+    },
+    {
+      "vendor_id": "V-03",
+      "process": "Catering",
+      "incidents": 14,
+      "avg_cost_usd": 276.29,
+      "preventable_exposure_usd": 138.14
+    },
+    {
+      "vendor_id": "V-06",
+      "process": "Aircraft Cleaning",
+      "incidents": 15,
+      "avg_cost_usd": 182.13,
+      "preventable_exposure_usd": 136.6
+    }
+  ]
+}

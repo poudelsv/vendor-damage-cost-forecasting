@@ -1,0 +1,6 @@
+vendor_id,process,incidents,avg_cost_usd,preventable_exposure_usd
+V-01,Baggage Handling,43,411.81,3191.56
+V-02,Ramp Loading,43,630.26,4884.48
+V-03,Catering,14,276.29,138.14
+V-04,Fueling,15,792.27,594.2
+V-06,Aircraft Cleaning,15,182.13,136.6

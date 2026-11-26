@@ -1,0 +1,49 @@
+audit_id,audit_date,vendor_id,process,vendor_reported_findings,leader_findings,discrepancy_type,repeat_operational_issue
+AUD-2000,2025-06-10,V-03,Catering,0,0,match,No
+AUD-2001,2025-04-28,V-05,Pushback & Towing,4,6,underreported,No
+AUD-2002,2025-03-18,V-02,Ramp Loading,3,4,underreported,Yes
+AUD-2003,2025-03-28,V-05,Pushback & Towing,3,3,match,No
+AUD-2004,2025-04-02,V-02,Ramp Loading,1,2,underreported,Yes
+AUD-2005,2025-04-13,V-03,Catering,3,5,underreported,No
+AUD-2006,2025-01-05,V-06,Aircraft Cleaning,1,1,match,No
+AUD-2007,2025-01-28,V-05,Pushback & Towing,4,4,match,No
+AUD-2008,2025-04-01,V-04,Fueling,0,1,underreported,No
+AUD-2009,2025-06-05,V-06,Aircraft Cleaning,1,1,match,No
+AUD-2010,2025-06-13,V-01,Baggage Handling,3,3,match,Yes
+AUD-2011,2025-06-28,V-06,Aircraft Cleaning,0,0,match,No
+AUD-2012,2025-06-23,V-05,Pushback & Towing,3,3,match,No
+AUD-2013,2025-05-03,V-04,Fueling,4,3,overreported,No
+AUD-2014,2025-04-04,V-02,Ramp Loading,2,2,match,No
+AUD-2015,2025-02-23,V-06,Aircraft Cleaning,0,0,match,No
+AUD-2016,2025-03-26,V-03,Catering,0,0,match,No
+AUD-2017,2025-02-08,V-01,Baggage Handling,2,2,match,Yes
+AUD-2018,2025-06-26,V-05,Pushback & Towing,3,4,underreported,No
+AUD-2019,2025-04-20,V-02,Ramp Loading,1,1,match,Yes
+AUD-2020,2025-05-05,V-06,Aircraft Cleaning,1,1,match,No
+AUD-2021,2025-03-22,V-02,Ramp Loading,3,5,underreported,Yes
+AUD-2022,2025-02-03,V-01,Baggage Handling,3,3,match,No
+AUD-2023,2025-03-21,V-04,Fueling,2,3,underreported,No
+AUD-2024,2025-03-07,V-04,Fueling,2,2,match,No
+AUD-2025,2025-02-13,V-04,Fueling,3,2,overreported,No
+AUD-2026,2025-03-23,V-05,Pushback & Towing,2,3,underreported,No
+AUD-2027,2025-04-09,V-03,Catering,0,2,underreported,No
+AUD-2028,2025-01-20,V-01,Baggage Handling,4,6,underreported,No
+AUD-2029,2025-02-20,V-06,Aircraft Cleaning,3,3,match,No
+AUD-2030,2025-02-20,V-03,Catering,1,3,underreported,No
+AUD-2031,2025-01-21,V-03,Catering,1,3,underreported,No
+AUD-2032,2025-04-02,V-06,Aircraft Cleaning,0,0,match,No
+AUD-2033,2025-02-03,V-05,Pushback & Towing,2,4,underreported,No
+AUD-2034,2025-04-06,V-03,Catering,2,4,underreported,No
+AUD-2035,2025-03-17,V-02,Ramp Loading,1,2,underreported,No
+AUD-2036,2025-03-27,V-05,Pushback & Towing,2,2,match,No
+AUD-2037,2025-03-26,V-04,Fueling,2,4,underreported,No
+AUD-2038,2025-02-28,V-01,Baggage Handling,3,2,overreported,Yes
+AUD-2039,2025-03-03,V-06,Aircraft Cleaning,3,4,underreported,No
+AUD-2040,2025-05-04,V-04,Fueling,0,0,match,No
+AUD-2041,2025-06-22,V-04,Fueling,2,4,underreported,No
+AUD-2042,2025-06-12,V-03,Catering,4,4,match,No
+AUD-2043,2025-05-11,V-01,Baggage Handling,1,1,match,Yes
+AUD-2044,2025-01-21,V-05,Pushback & Towing,1,3,underreported,No
+AUD-2045,2025-04-04,V-04,Fueling,2,4,underreported,No
+AUD-2046,2025-04-04,V-02,Ramp Loading,0,0,match,Yes
+AUD-2047,2025-04-12,V-01,Baggage Handling,1,2,underreported,Yes

@@ -1,0 +1,8 @@
+-- Power BI DAX measures (paste into a model built on incidents.csv / audits.csv)
+-- Total Damage Cost = SUM(incidents[damage_cost_usd])
+-- Avg Damage Cost = AVERAGE(incidents[damage_cost_usd])
+-- Incident Count = COUNTROWS(incidents)
+-- Expected Exposure = [Avg Damage Cost] * [Incident Count] / 6 * 12
+-- Preventable Exposure = SUMX(FILTER(preventable_exposure, TRUE()), preventable_exposure[preventable_exposure_usd])
+-- Discrepancy Rate = DIVIDE(COUNTROWS(FILTER(audits, audits[discrepancy_type] <> "match")), COUNTROWS(audits))
+-- Repeat Issue Rate = DIVIDE(COUNTROWS(FILTER(audits, audits[repeat_operational_issue] = "Yes")), COUNTROWS(audits))

@@ -1,0 +1,7 @@
+vendor_id,vendor_name,primary_process,contract_start,stations
+V-01,Vendor 01 (anonymised),Baggage Handling,2024-01-01,2
+V-02,Vendor 02 (anonymised),Ramp Loading,2024-01-01,2
+V-03,Vendor 03 (anonymised),Catering,2024-01-01,4
+V-04,Vendor 04 (anonymised),Fueling,2024-01-01,3
+V-05,Vendor 05 (anonymised),Pushback & Towing,2024-01-01,3
+V-06,Vendor 06 (anonymised),Aircraft Cleaning,2024-01-01,3

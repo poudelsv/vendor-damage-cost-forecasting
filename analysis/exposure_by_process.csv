@@ -1,0 +1,7 @@
+process,incidents,avg_cost_usd,total_cost_usd,monthly_frequency,annualised_expected_exposure_usd
+Aircraft Cleaning,15,182.13,2732.0,2.5,5464.0
+Baggage Handling,43,411.81,17708.0,7.17,35416.0
+Catering,14,276.29,3868.0,2.33,7736.0
+Fueling,15,792.27,11884.0,2.5,23768.0
+Pushback & Towing,12,884.17,10610.0,2.0,21220.0
+Ramp Loading,43,630.26,27101.0,7.17,54202.0

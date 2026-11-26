@@ -1,0 +1,18 @@
+{
+  "total_audits": 48,
+  "discrepancy_counts": {
+    "match": 23,
+    "underreported": 22,
+    "overreported": 3
+  },
+  "discrepancy_rate_pct": 52.1,
+  "repeat_operational_audits": 10,
+  "underreported_by_vendor": {
+    "V-05": 5,
+    "V-02": 4,
+    "V-03": 5,
+    "V-04": 5,
+    "V-01": 2,
+    "V-06": 1
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "vendor_id": "V-02",
+    "incidents": 43,
+    "total_cost_usd": 27101.0,
+    "avg_cost_usd": 630.26,
+    "audits": 7,
+    "discrepancy_rate_pct": 57.1,
+    "score_0_100": 47.8
+  },
+  {
+    "vendor_id": "V-01",
+    "incidents": 43,
+    "total_cost_usd": 17708.0,
+    "avg_cost_usd": 411.81,
+    "audits": 7,
+    "discrepancy_rate_pct": 42.9,
+    "score_0_100": 56.8
+  },
+  {
+    "vendor_id": "V-04",
+    "incidents": 15,
+    "total_cost_usd": 11884.0,
+    "avg_cost_usd": 792.27,
+    "audits": 9,
+    "discrepancy_rate_pct": 77.8,
+    "score_0_100": 63.2
+  },
+  {
+    "vendor_id": "V-05",
+    "incidents": 12,
+    "total_cost_usd": 10610.0,
+    "avg_cost_usd": 884.17,
+    "audits": 9,
+    "discrepancy_rate_pct": 55.6,
+    "score_0_100": 72.0
+  },
+  {
+    "vendor_id": "V-03",
+    "incidents": 14,
+    "total_cost_usd": 3868.0,
+    "avg_cost_usd": 276.29,
+    "audits": 8,
+    "discrepancy_rate_pct": 62.5,
+    "score_0_100": 72.3
+  },
+  {
+    "vendor_id": "V-06",
+    "incidents": 15,
+    "total_cost_usd": 2732.0,
+    "avg_cost_usd": 182.13,
+    "audits": 8,
+    "discrepancy_rate_pct": 12.5,
+    "score_0_100": 87.4
+  }
+]
